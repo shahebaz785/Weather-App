@@ -4,6 +4,11 @@ This is a simple weather application that provides current weather information a
 
 Screenshots:-
 
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/96fa547a-36a1-4b70-a611-0deef85b7f7f" />
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/2351887b-f3cc-4b5d-98af-fb17976137a5" />
+
+<img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/c91a95c1-fe12-4f55-b0d5-d24a9938c5d6" />
 
 
 Features :-
